@@ -1,5 +1,6 @@
 # Xcode8SupportiOS7Debug
 Xcode8Support Debug with iOS7 deveice
+
 Xcode8 连接iOS7设备调试
 1. 安装低版本Xcode [下载地址](https://developer.apple.com/download/more/)
 2. 前往 `/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport` 拷贝 7.0 7.1 文件夹
